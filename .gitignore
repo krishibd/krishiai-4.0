@@ -1,0 +1,9 @@
+node_modules
+
+# Capacitor platform builds
+android/app/src/main/assets/public/
+ios/App/App/public/
+
+# Capacitor platform builds
+android/app/src/main/assets/public/
+ios/App/App/public/
